@@ -1,4 +1,4 @@
-name: Build
+name: 航海王
 on:
   workflow_dispatch:
       inputs:
